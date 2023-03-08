@@ -9,7 +9,7 @@
 ### Java
 
 ### 프로그래밍 수학
-https://github.com/deok-beom/StudyHistory/blob/main/Kafka/MessageQueue.md
+
 ### Spring Boot
 
 ### Spring
